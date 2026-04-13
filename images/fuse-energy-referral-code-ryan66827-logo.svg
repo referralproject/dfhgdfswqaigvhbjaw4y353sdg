@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-label="Fuse Energy referral code RYAN66827">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#07131a"/>
+      <stop offset="50%" stop-color="#0d1d27"/>
+      <stop offset="100%" stop-color="#102b34"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" x2="1">
+      <stop offset="0%" stop-color="#56f2b1"/>
+      <stop offset="100%" stop-color="#66dfff"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <circle cx="140" cy="120" r="130" fill="#56f2b1" opacity="0.12"/>
+  <circle cx="1040" cy="90" r="160" fill="#66dfff" opacity="0.10"/>
+  <rect x="120" y="150" rx="28" ry="28" width="960" height="330" fill="#0b1a22" opacity="0.88" stroke="#ffffff" stroke-opacity="0.08"/>
+  <text x="160" y="230" fill="#eef8fb" font-size="44" font-family="Arial, Helvetica, sans-serif" font-weight="700">Fuse Energy referral code</text>
+  <text x="160" y="340" fill="url(#accent)" font-size="88" font-family="Arial, Helvetica, sans-serif" font-weight="900" letter-spacing="6">RYAN66827</text>
+  <text x="160" y="420" fill="#b4c8d1" font-size="30" font-family="Arial, Helvetica, sans-serif">Copy and paste during Fuse Energy sign-up</text>
+</svg>
